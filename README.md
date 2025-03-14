@@ -26,6 +26,20 @@ After years of using Linux, I wanted to experiment and create something unique. 
   - **Vyn Photos:** A streamlined photo viewer.
   - **Vyn Terminal:** A customized terminal application for enhanced productivity.
 
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/1.png" alt="Screenshot 1" width="300" style="display:inline-block; margin-right:10px;">
+  <img src="screenshots/2.png" alt="Screenshot 2" width="300" style="display:inline-block; margin-right:10px;">
+  <img src="screenshots/3.png" alt="Screenshot 2" width="300" style="display:inline-block; margin-right:10px;">
+  <img src="screenshots/4.png" alt="Screenshot 2" width="300" style="display:inline-block; margin-right:10px;">
+  <img src="screenshots/5.png" alt="Screenshot 2" width="300" style="display:inline-block; margin-right:10px;">
+  <img src="screenshots/6.png" alt="Screenshot 2" width="300" style="display:inline-block; margin-right:10px;">
+  <img src="screenshots/7.png" alt="Screenshot 2" width="300" style="display:inline-block; margin-right:10px;">
+  <img src="screenshots/8.png" alt="Screenshot 3" width="300" style="display:inline-block;">
+</p>
+
+
 ## Unique Selling Points
 
 - **Optimized for Low-End Systems:**  
